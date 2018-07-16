@@ -1,0 +1,43 @@
+﻿@model EP.CursoMvc.Application.ViewModels.ClienteViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ClienteViewModel</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Nome)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nome)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Email)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CPF)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CPF)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DataNascimento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DataNascimento)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ClienteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

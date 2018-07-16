@@ -1,0 +1,4 @@
+C:\Users\Usuário\Documents\EstudoEduardoPires\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+C:\Users\Usuário\Documents\EstudoEduardoPires\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+C:\Users\Usuário\Documents\EstudoEduardoPires\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+C:\Users\Usuário\Documents\EstudoEduardoPires\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
